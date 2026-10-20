@@ -16,4 +16,4 @@ A practical implementation of database management concepts using MySQL. This pro
 ## 🛠️ Technology Used
 * **Database Management System:** MySQL
 * **IDE/Client:** MySQL Workbench
-*
+
